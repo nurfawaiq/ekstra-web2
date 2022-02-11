@@ -15,7 +15,7 @@ for ($o=2022; $o > 2010; $o--) {
 echo "<br>-------------------<br><br>";
 
 $x = 1;
-while($x <= 5) {
+while($x < 5) {
     echo "Angka $x <br>";
     $x++;
 }
