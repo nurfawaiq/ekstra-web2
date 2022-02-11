@@ -1,13 +1,16 @@
 <?php
+// deklarasikan variabel
 $a = 45;
 $b = 20;
 
-$hasil1 = $a + $b;
-$hasil2 = $a - $b;
-$hasil3 = $a * $b;
-$hasil4 = $a / $b;
-$hasil5 = $a % $b;
+// operator aritmatika
+$hasil1 = $a + $b; // pertambahan
+$hasil2 = $a - $b; // pengurangan
+$hasil3 = $a * $b; // perkalian
+$hasil4 = $a / $b; // pembagian
+$hasil5 = $a % $b; // sisa hasil bagi
 
+// tampilkan ke layar
 echo "Nilai a : $a
     <br>
     Nilai b : $b 
